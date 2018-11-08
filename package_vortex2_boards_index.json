@@ -17,7 +17,7 @@
           "help": {
             "online": "https://github.com/"
           },
-          "url": "https://github.com/wxzed/Vortex2_Arduino/DFRobot_Vortex2_0.1.0.zip",
+          "url": "https://raw.githubusercontent.com/wxzed/Vortex2_Arduino/master/DFRobot_Vortex2_0.1.0.zip",
           "archiveFileName": "DFRobot_vortex2_0.1.0.zip",
           "checksum": "SHA-256:5e8788af49919a7366da2ad612b1d426f3cd79b2d2dfff55e8617170a0d8c340",
           "size": "9148050",
