@@ -12,6 +12,29 @@
         {
           "name": "Vortex2",
           "architecture": "nRF5",
+          "version": "0.1.2",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/"
+          },
+          "url": "https://raw.githubusercontent.com/wxzed/Vortex2_Arduino/master/DFRobot_Vortex2_0.1.2.zip",
+          "archiveFileName": "DFRobot_vortex2_0.1.2.zip",
+          "checksum": "SHA-256:10b5fc4bdc5d214032a612b6f4e097eca96c1f981efbfe49360adc7700fc7e23",
+          "size": "9542634",
+          "boards": [
+            {"name": "NRF52840_DK_C"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "DFRobot_Vortex2",
+              "name": "gcc-arm-none-eabi",
+              "version": "5_2-2015q4"
+            }
+          ]
+        },
+        {
+          "name": "Vortex2",
+          "architecture": "nRF5",
           "version": "0.1.1",
           "category": "Contributed",
           "help": {
